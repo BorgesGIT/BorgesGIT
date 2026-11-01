@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Bruno Borges — .NET Software Engineer since 2010">
+  <rect width="1200" height="240" fill="#042C53"/>
+  <g fill="none" stroke="#0C447C" stroke-width="1.5">
+    <path d="M860 0 L1010 120 L860 240"/>
+    <path d="M940 0 L1090 120 L940 240"/>
+    <path d="M1020 0 L1170 120 L1020 240"/>
+    <path d="M1100 0 L1250 120 L1100 240"/>
+  </g>
+  <path d="M1010 120 L1040 96 L1070 120 L1040 144 Z" fill="#0C447C"/>
+  <path d="M1040 104 L1056 120 L1040 136 L1024 120 Z" fill="#EF9F27"/>
+  <text x="72" y="118" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="600" fill="#E6F1FB">Bruno Borges</text>
+  <text x="74" y="164" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" fill="#FAC775">.NET Software Engineer  ·  since 2010</text>
+  <rect x="0" y="234" width="1200" height="6" fill="#EF9F27"/>
+</svg>
